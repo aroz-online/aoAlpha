@@ -1,0 +1,25 @@
+{
+  "module_name":"aoAlpha",
+  "type":"multimedia",
+  "author":"aroz-online",
+  "last-update":"20200323 00:00:00HKT",
+  "contact":"https://github.com/aroz-online",
+  "eula":"https://github.com/aroz-online/aoAlpha/blob/master/LICENSE"
+  "minium_version":0,
+  "mimium_os":"20180101",
+  "os":{
+    "windows":true,
+    "debian":true
+  },
+  "arch":{
+    "x86":true,
+    "x64":true,
+    "armv6l":true,
+    "arm64":true
+  }
+  "required_package":[],
+  "required_webapp":[],
+  "permission":["com.imuslab.storage.read","com.imuslab.storage.write"],
+  "permission":0775,
+  "file_checksum":[]
+}
