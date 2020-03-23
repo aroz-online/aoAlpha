@@ -1,6 +1,6 @@
 ![](image/0.png)
 # aoAlpha
-The ArOZ Omega Online (aka ArOZ Online Alpha) ported as an ArOZ Online Beta module
+The ArOZ Omega Online (aka ArOZ Online Alpha) ported as an [ArOZ Online Beta](https://github.com/tobychui/ArOZ-Online-System) module
 
 ## Installation
 1. Download the whole repo as zip
